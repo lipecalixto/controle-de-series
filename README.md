@@ -29,4 +29,4 @@ O projeto contém os seguintes cursos:
  5. Entra na rota /register e se registre
  6. entra na rota /series
 
-## imagens do projeto
+## imagens do projeto:
